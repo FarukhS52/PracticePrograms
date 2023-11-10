@@ -1,7 +1,7 @@
 import java.security.SecureRandom;
 import java.util.Scanner;
 
-public class RandomPasswordGenerator {
+public class RandomPasswordGenerator{
     private static final String LOWERCASE_CHARS = "abcdefghijklmnopqrstuvwxyz";
     private static final String UPPERCASE_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String NUMBERS = "0123456789";
